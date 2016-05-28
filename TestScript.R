@@ -1,9 +1,7 @@
 # In order to make environment replicable, 
 #   need to keep all code and just keep moving down
 
-# Load the dataset package. Usually there by default
-install.packages("datasets")
-library("datasets")
+#other things
 
 # 1. Checking for normality
 # Normal = symmetric, unimodal, bell-shaped curve
