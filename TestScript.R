@@ -39,6 +39,5 @@ shapiro.test(mtcars[,"drat"]) # p>0.05 -> suggests normal
 # Can have major effect on slope of regression lines
 # Possible to remove outliers, or use "robust statistics", e.g. Median is 
 #   consider robust, mean not; non-parametric more robust
-# Possible that outliers caused by samples being multiple, distinct 
-#   sub-populations (e.g. impact of other variable)
-# oS3 pg 36
+
+Blsh blah blah whatever. R sucks i hate it
