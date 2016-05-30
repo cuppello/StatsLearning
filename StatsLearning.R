@@ -39,3 +39,5 @@ shapiro.test(mtcars[,"drat"]) # p>0.05 -> suggests normal
 # Possible that outliers caused by samples being multiple, distinct 
 #   sub-populations (e.g. impact of other variable)
 # oS3 pg 36
+
+# 3. Correlations and Partial Correlations
