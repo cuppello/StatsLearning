@@ -1,8 +1,10 @@
 # Stats Learning
 
 # Done          1 2
-# In Progress   
-# Remaining     3 4 5 6 7 8 9
+# In Progress   3 (need partial correlation, bootstrapping)
+#               4 (need ANCOVA)
+#               5 (need multiple and logistic regression)
+# Remaining     6 7 8 9
 
 # 1. Checking for normality
 #   	a. When to use parametric v non-parametric methods

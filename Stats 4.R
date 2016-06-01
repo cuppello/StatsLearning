@@ -64,4 +64,5 @@ pairwise.wilcox.test(airquality$Ozone, airquality$Month,
 ## Assumed that Cov is independent of IV, i.e. t-test of CoV between IV groups
 ##    would be insig
 ## Need to read up on this
+## Revisit after corelation and regression bit
 

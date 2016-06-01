@@ -8,4 +8,9 @@
 ##   consider robust, mean not; non-parametric more robust
 ## Possible that outliers caused by samples being multiple, distinct 
 ##   sub-populations (e.g. impact of other variable)
-## oS3 pg 36
+
+
+## Should be wary of removing outliers without good reason
+## See Stats 5 for plots and residual plots which help indicate outliers
+##    and how influential they are likely to be
+## Outliers don't necessarily indicate bad data
